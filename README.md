@@ -1,1 +1,1 @@
-Simple command line application i made for school using OOP programming in the programming language Java.
+Command line application i made during my study to showcase OOP programming in the programming language Java.
